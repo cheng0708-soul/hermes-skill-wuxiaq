@@ -1,0 +1,1730 @@
+[
+  {
+    "name": "张无忌",
+    "id": "wj_16",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "乾坤大挪移",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "荆无命",
+    "id": "wj_47",
+    "quality": "乙",
+    "class": "gangmeng",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "无名剑法",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "瑛姑",
+    "id": "wj_37",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "泥鳅功",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "玄慈",
+    "id": "custom_玄慈",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "须弥山神掌",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "慕容博",
+    "id": "wj_05",
+    "quality": "甲",
+    "class": "anqi",
+    "weapon_type": "指法",
+    "projectile_shape": "指芒",
+    "effects": {
+      "theme": "#D4A017",
+      "trail": "#6BCB77",
+      "burst": "#4CAF50"
+    },
+    "talent_wugong": "参合指",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "令狐冲",
+    "id": "wj_26",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "独孤九剑",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "段正淳",
+    "id": "custom_段正淳",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "指法",
+    "projectile_shape": "指芒",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "一阳指",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "步惊云",
+    "id": "custom_步惊云",
+    "quality": "甲",
+    "class": "gangmeng",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "三霸剑术",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "渡厄",
+    "id": "wj_42",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "棍杖",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "伏魔鞭法",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "杨逍",
+    "id": "wj_10",
+    "quality": "甲",
+    "class": "anqi",
+    "weapon_type": "指法",
+    "projectile_shape": "指芒",
+    "effects": {
+      "theme": "#D4A017",
+      "trail": "#6BCB77",
+      "burst": "#4CAF50"
+    },
+    "talent_wugong": "弹指神通",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "雄霸",
+    "id": "custom_雄霸",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "天下归一功",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "李莫愁",
+    "id": "wj_60",
+    "quality": "乙",
+    "class": "gangmeng",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "九阴白骨爪",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "鸠摩智",
+    "id": "wj_06",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "指法",
+    "projectile_shape": "指芒",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "火焰刀",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "石破天",
+    "id": "custom_石破天",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "罗汉伏魔功",
+    "growth": "缺失",
+    "note": "growth=0 | spd=0"
+  },
+  {
+    "name": "韦一笑",
+    "id": "wj_51",
+    "quality": "乙",
+    "class": "qingling",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#4ADE80",
+      "trail": "#2ECC71",
+      "burst": "#A8E6CF"
+    },
+    "talent_wugong": "寒冰绵掌",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "虚竹",
+    "id": "wj_13",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "太极球",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "天山六阳掌",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "练霓裳",
+    "id": "wj_63",
+    "quality": "乙",
+    "class": "anqi",
+    "weapon_type": "暗器",
+    "projectile_shape": "飞针",
+    "effects": {
+      "theme": "#D4A017",
+      "trail": "#6BCB77",
+      "burst": "#4CAF50"
+    },
+    "talent_wugong": "白眉针",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "慕容复",
+    "id": "wj_35",
+    "quality": "乙",
+    "class": "qingling",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#4ADE80",
+      "trail": "#2ECC71",
+      "burst": "#A8E6CF"
+    },
+    "talent_wugong": "斗转星移",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "李秋水",
+    "id": "wj_22",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "太极球",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "白虹掌",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "黄眉僧",
+    "id": "custom_黄眉僧",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "指法",
+    "projectile_shape": "指芒",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "大力金刚指",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "无崖子",
+    "id": "wj_14",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "指法",
+    "projectile_shape": "太极球",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "天山六阳掌",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "段延庆",
+    "id": "wj_54",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "指法",
+    "projectile_shape": "指芒",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "一阳指",
+    "growth": "完整",
+    "note": "spd=0"
+  },
+  {
+    "name": "谢逊",
+    "id": "wj_02",
+    "quality": "甲",
+    "class": "gangmeng",
+    "weapon_type": "棍杖",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "狮子吼",
+    "growth": "完整",
+    "note": "spd=0"
+  },
+  {
+    "name": "东方不败",
+    "id": "wj_19",
+    "quality": "甲",
+    "class": "anqi",
+    "weapon_type": "暗器",
+    "projectile_shape": "飞针",
+    "effects": {
+      "theme": "#D4A017",
+      "trail": "#6BCB77",
+      "burst": "#4CAF50"
+    },
+    "talent_wugong": "无影金针",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "路仲远",
+    "id": "custom_路仲远",
+    "quality": "甲",
+    "class": "gangmeng",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "浩天剑气",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "林平之",
+    "id": "custom_林平之",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "辟邪剑法",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "丁春秋",
+    "id": "wj_66",
+    "quality": "乙",
+    "class": "gangmeng",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "化功大法",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "玄难",
+    "id": "wj_67",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "一苇渡江",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "杨过",
+    "id": "wj_09",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "黯然销魂掌",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "星爷",
+    "id": "custom_星爷",
+    "quality": "甲",
+    "class": "anqi",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#D4A017",
+      "trail": "#6BCB77",
+      "burst": "#4CAF50"
+    },
+    "talent_wugong": "心月如钩",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "左冷禅",
+    "id": "custom_左冷禅",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "寒冰神掌",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "林仙儿",
+    "id": "custom_林仙儿",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "满天花雨",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "孙白发",
+    "id": "wj_28",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "棍杖",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "天机棒法",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "胡斐",
+    "id": "custom_胡斐",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "刀",
+    "projectile_shape": "刀风",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "新 胡家刀法",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "胡铁花",
+    "id": "wj_53",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "铁血十二式",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "渡劫",
+    "id": "wj_41",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "棍杖",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "伏魔鞭法",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "楚留香",
+    "id": "wj_08",
+    "quality": "甲",
+    "class": "qingling",
+    "weapon_type": "扇",
+    "projectile_shape": "太极球",
+    "effects": {
+      "theme": "#4ADE80",
+      "trail": "#2ECC71",
+      "burst": "#A8E6CF"
+    },
+    "talent_wugong": "妙手偷香",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "苗人凤",
+    "id": "custom_苗人凤",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "狂风快剑",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "李青萝",
+    "id": "custom_李青萝",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "百家武学",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "萧远山",
+    "id": "custom_萧远山",
+    "quality": "甲",
+    "class": "gangmeng",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "袈裟伏魔功",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "上官小仙",
+    "id": "custom_上官小仙",
+    "quality": "甲",
+    "class": "anqi",
+    "weapon_type": "暗器",
+    "projectile_shape": "飞针",
+    "effects": {
+      "theme": "#D4A017",
+      "trail": "#6BCB77",
+      "burst": "#4CAF50"
+    },
+    "talent_wugong": "万梅迎风",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "周伯通",
+    "id": "wj_20",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "双手互搏术",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "范遥",
+    "id": "wj_52",
+    "quality": "乙",
+    "class": "gangmeng",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "无名拳法",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "黄药师",
+    "id": "wj_11",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "扇",
+    "projectile_shape": "太极球",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "弹指神通",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "张三",
+    "id": "custom_张三",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "龙象般若功",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "游坦之",
+    "id": "wj_39",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "寒冰神掌",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "日后",
+    "id": "custom_日后",
+    "quality": "甲",
+    "class": "anqi",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#D4A017",
+      "trail": "#6BCB77",
+      "burst": "#4CAF50"
+    },
+    "talent_wugong": "移山压顶",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "郭嵩阳",
+    "id": "wj_45",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "夺命十三剑",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "夜帝",
+    "id": "custom_夜帝",
+    "quality": "甲",
+    "class": "anqi",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#D4A017",
+      "trail": "#6BCB77",
+      "burst": "#4CAF50"
+    },
+    "talent_wugong": "大旗风云掌",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "吴明",
+    "id": "custom_吴明",
+    "quality": "甲",
+    "class": "gangmeng",
+    "weapon_type": "指法",
+    "projectile_shape": "指芒",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "囚天一指",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "阿飞",
+    "id": "wj_55",
+    "quality": "乙",
+    "class": "gangmeng",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "踏雪无痕",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "叶开",
+    "id": "custom_叶开",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "刀",
+    "projectile_shape": "刀风",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "李寻欢 飞刀",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "柴玉关",
+    "id": "wj_23",
+    "quality": "甲",
+    "class": "gangmeng",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "夺命十三剑",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "段誉",
+    "id": "wj_18",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "指法",
+    "projectile_shape": "指芒",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "六脉神剑",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "裘千仞",
+    "id": "custom_裘千仞",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "铁砂掌",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "铁中棠",
+    "id": "custom_铁中棠",
+    "quality": "甲",
+    "class": "gangmeng",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "铁血十二式",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "任盈盈",
+    "id": "wj_62",
+    "quality": "乙",
+    "class": "qingling",
+    "weapon_type": "扇",
+    "projectile_shape": "太极球",
+    "effects": {
+      "theme": "#4ADE80",
+      "trail": "#2ECC71",
+      "burst": "#A8E6CF"
+    },
+    "talent_wugong": "伏魔鞭法",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "谢晓峰",
+    "id": "custom_谢晓峰",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "西门吹雪 一笑",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "灭绝师太",
+    "id": "wj_38",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "飘雪穿云掌",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "花无缺",
+    "id": "wj_57",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "移花接木",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "陆小凤",
+    "id": "custom_陆小凤",
+    "quality": "甲",
+    "class": "gangmeng",
+    "weapon_type": "指法",
+    "projectile_shape": "指芒",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "灵犀一指",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "秦霜",
+    "id": "custom_秦霜",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "寒霜拳",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "李四",
+    "id": "custom_李四",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "百家武学",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "黄蓉",
+    "id": "wj_12",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "棍杖",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "打狗棒 法",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "扫地僧",
+    "id": "custom_扫地僧",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "洗髓经",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "天山童姥",
+    "id": "wj_29",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "太极球",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "天山折梅手",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "西门吹雪",
+    "id": "wj_24",
+    "quality": "甲",
+    "class": "gangmeng",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "踏雪无痕",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "萧峰",
+    "id": "wj_03",
+    "quality": "甲",
+    "class": "gangmeng",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "降龙十八掌",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "风清扬",
+    "id": "custom_风清扬",
+    "quality": "甲",
+    "class": "gangmeng",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "独孤九剑",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "丘处机",
+    "id": "wj_56",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "全真剑法",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "赵敏",
+    "id": "wj_36",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "百家武学",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "聂风",
+    "id": "custom_聂风",
+    "quality": "甲",
+    "class": "gangmeng",
+    "weapon_type": "刀",
+    "projectile_shape": "刀风",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "怒风斩",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "欧阳锋",
+    "id": "wj_04",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "蛤蟆功",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "浪翻云",
+    "id": "custom_浪翻云",
+    "quality": "乙",
+    "class": "gangmeng",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "灭世魔神",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "上官金虹",
+    "id": "wj_31",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "扇",
+    "projectile_shape": "太极球",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "子母 龙凤环",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "黛绮丝",
+    "id": "wj_34",
+    "quality": "乙",
+    "class": "qingling",
+    "weapon_type": "扇",
+    "projectile_shape": "太极球",
+    "effects": {
+      "theme": "#4ADE80",
+      "trail": "#2ECC71",
+      "burst": "#A8E6CF"
+    },
+    "talent_wugong": "夺命金花",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "苏星河",
+    "id": "wj_33",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "> 逍遥御风",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "玄苦",
+    "id": "wj_64",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "罗汉拳",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "成昆",
+    "id": "custom_成昆",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "摧心掌",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "独孤求败",
+    "id": "custom_独孤求败",
+    "quality": "甲",
+    "class": "gangmeng",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "独孤九剑",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "小龙女",
+    "id": "wj_30",
+    "quality": "甲",
+    "class": "qingling",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#4ADE80",
+      "trail": "#2ECC71",
+      "burst": "#A8E6CF"
+    },
+    "talent_wugong": "玉女心经",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "岳不群",
+    "id": "wj_58",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "辟邪剑法",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "梅超风",
+    "id": "wj_46",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "九阴白骨爪",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "周芷若",
+    "id": "wj_59",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "九阴白骨爪",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "王重阳",
+    "id": "wj_27",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "太极球",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "先天功",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "阿紫",
+    "id": "custom_阿紫",
+    "quality": "乙",
+    "class": "gangmeng",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "化功大法",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "陈玄风",
+    "id": "wj_43",
+    "quality": "乙",
+    "class": "gangmeng",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "九阴白骨爪",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "洪七公",
+    "id": "wj_17",
+    "quality": "甲",
+    "class": "gangmeng",
+    "weapon_type": "棍杖",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "打狗棒 法",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "江小鱼",
+    "id": "wj_65",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "摧心掌",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "任我行",
+    "id": "wj_25",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "吸星大法",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "胡一刀",
+    "id": "custom_胡一刀",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "刀",
+    "projectile_shape": "刀风",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "胡家刀法",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "郭靖",
+    "id": "wj_15",
+    "quality": "甲",
+    "class": "gangmeng",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "降龙十八掌",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "夏雪宜",
+    "id": "custom_夏雪宜",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "无名剑法",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "一灯大师",
+    "id": "wj_32",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "指法",
+    "projectile_shape": "指芒",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "一阳指",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "张三丰",
+    "id": "custom_张三丰",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "太极球",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "太极神拳",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "李沧海",
+    "id": "custom_李沧海",
+    "quality": "甲",
+    "class": "gangmeng",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "摘星赶月",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "郭襄",
+    "id": "wj_44",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "峨眉九阳功",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "袁承志",
+    "id": "custom_袁承志",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "无名剑法",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "叶孤城",
+    "id": "wj_07",
+    "quality": "甲",
+    "class": "gangmeng",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "天外飞仙",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "韦小宝",
+    "id": "wj_50",
+    "quality": "乙",
+    "class": "gangmeng",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "神行百变",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "金轮法王",
+    "id": "custom_金轮法王",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "龙象般若功",
+    "growth": "缺失",
+    "note": "growth=0 | spd=0"
+  },
+  {
+    "name": "玄寂",
+    "id": "custom_玄寂",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "大手印",
+    "growth": "缺失",
+    "note": "growth=0"
+  },
+  {
+    "name": "李寻欢",
+    "id": "wj_21",
+    "quality": "甲",
+    "class": "anqi",
+    "weapon_type": "暗器",
+    "projectile_shape": "飞针",
+    "effects": {
+      "theme": "#D4A017",
+      "trail": "#6BCB77",
+      "burst": "#4CAF50"
+    },
+    "talent_wugong": "李寻欢飞刀",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "全冠清",
+    "id": "wj_61",
+    "quality": "乙",
+    "class": "gangmeng",
+    "weapon_type": "棍杖",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "荆无命 杖法",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "渡难",
+    "id": "wj_40",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "棍杖",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "伏魔鞭法",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "殷天正",
+    "id": "wj_48",
+    "quality": "乙",
+    "class": "neigong",
+    "weapon_type": "拳掌",
+    "projectile_shape": "掌印",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "鹰抓手",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "姬冰雁",
+    "id": "wj_49",
+    "quality": "乙",
+    "class": "gangmeng",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#F2A900",
+      "trail": "#FF8C00",
+      "burst": "#FF6B35"
+    },
+    "talent_wugong": "大旗门诀要",
+    "growth": "完整",
+    "note": ""
+  },
+  {
+    "name": "邀月",
+    "id": "wj_01",
+    "quality": "甲",
+    "class": "neigong",
+    "weapon_type": "剑",
+    "projectile_shape": "月牙剑气",
+    "effects": {
+      "theme": "#3F88FF",
+      "trail": "#2266CC",
+      "burst": "#88CCFF"
+    },
+    "talent_wugong": "明玉神功",
+    "growth": "完整",
+    "note": ""
+  }
+]
